@@ -41,9 +41,6 @@ body {
     background-color:lightyellow;
   }
 
-#nav-list a{
-    text-align: center;
-}
 
 .navbar-default .navbar-nav>li>a {
     color:black;
